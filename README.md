@@ -1,12 +1,12 @@
 # Cookiecutter PyPackage
 
-[![image](https://github.com/giswqs/pypackage/workflows/build/badge.svg)](https://github.com/giswqs/pypackage/actions?query=workflow%3Abuild)
-[![image](https://github.com/giswqs/pypackage/workflows/docs/badge.svg)](https://giswqs.github.io/pypackage)
+[![image](https://github.com/jmp75/cookiecutter-pypackage/workflows/build/badge.svg)](https://github.com/jmp75/cookiecutter-pypackage/actions?query=workflow%3Abuild)
+[![image](https://github.com/jmp75/cookiecutter-pypackage/workflows/docs/badge.svg)](https://jmp75.github.io/pypackage)
 
 [Cookiecutter](https://github.com/cookiecutter/cookiecutter) template for a Python package.
 
--   GitHub repo: <https://github.com/giswqs/pypackage>
--   Documentation: <https://giswqs.github.io/pypackage>
+-   GitHub repo: <https://github.com/jmp75/cookiecutter-pypackage>
+-   Documentation: <https://jmp75.github.io/pypackage>
 -   Free software: BSD license
 
 ## Features
@@ -26,7 +26,7 @@ requires Cookiecutter 1.4.0 or higher):
 
 Generate a Python package project:
 
-    cookiecutter gh:giswqs/pypackage
+    cookiecutter gh:jmp75/pypackage
 
 Then:
 
